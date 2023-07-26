@@ -1,0 +1,5 @@
+\frametitle{Manual de b\'usqueda}
+    \begin{figure}
+    \Large Para efectuar una consulta en Moogle! basta con escribir fragmentos o el nombre del documento que se quiere encontrar y dar click en el bot\'on azul que se encuentra a la derecha de la barra de consulta.\\
+    \includegraphics[width=0.7 \linewidth]{ejemplo.png}
+    \end{figure}
